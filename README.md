@@ -77,7 +77,7 @@ Access `http://localhost:9112/metrics` to view the exported metrics.
   ```
 
 ## License
-Suggestion: MIT License (add a LICENSE file if desired).
+MIT License.
 
 ## Contributions
 Pull requests are welcome!
